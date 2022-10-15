@@ -1,0 +1,44 @@
+body {
+    background-image: url(./Images/cover.jpeg);
+    background-size: auto;
+    background-repeat: no-repeat;
+
+}
+
+Header {
+    background-color: #FFD700;
+
+}
+
+ul {
+    list-style: none;
+    display: inline-block;
+    word-spacing: 50px;
+    margin-right: 30px;
+    font-size: 25px;
+}
+
+li {
+    display: inline-block;
+    color: rgb(68, 62, 7);
+}
+
+.hNav {
+    display: inline-block;
+    position: absolute;
+    right: 0px;
+}
+
+.tLogo {
+    display: inline-block;
+}
+
+.tName {
+    display: inline-block;
+}
+
+.logo {
+    width: 50px;
+    border-radius: 50%;
+    transition: 0%;
+}
